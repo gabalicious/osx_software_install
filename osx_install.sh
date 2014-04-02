@@ -42,6 +42,7 @@ brew cask install --appdir="/Applications" macvim
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" sourcetree
+brew cask install --appdir="/Applications" macaw
 
 # Google Slavery
 echo Install Google Apps
