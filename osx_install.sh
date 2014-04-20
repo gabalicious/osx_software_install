@@ -22,6 +22,7 @@ brew cask install --appdir="/Applications" little-snitch
 brew cask install --appdir="~/Applications" transmit
 brew cask install --appdir="~/Applications" vlc
 brew cask install --appdir="~/Applications" iterm2
+brew cask install --appdir="~/Applications" java
 
 ## get from App Store
 #brew cask install --appdir="/Applications" evernote
@@ -43,6 +44,8 @@ brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" sourcetree
 brew cask install --appdir="/Applications" macaw
+brew cask install --appdir="/Applications" charles
+
 
 # Google Slavery
 echo Install Google Apps
@@ -50,17 +53,20 @@ brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" google-drive
 brew cask install --appdir="/Applications" google-music-manager
 brew cask install --appdir="/Applications" google-earth
-brew cask install --appdir="/Applications" google-web-designer
+brew cask install --appdir="/Applications" google-hangouts
 
 # Nice to have
 echo Install Some additional Apps
 brew cask install --appdir="/Applications" firefox
+brew cask install --appdir="/Applications" opera-next
 #brew cask install --appdir="/Applications" chromium
 brew cask install --appdir="/Applications" send-to-kindle
 brew cask install --appdir="/Applications" skype
 brew cask install --appdir="/Applications" tilemill
 brew cask install --appdir="/Applications" jdownloader
 brew cask install --appdir="/Applications" lastfm
+brew cask install --appdir="/Applications" all2mp3
+brew cask install --appdir="/Applications" spotify
 
 # Link Cask Apps to Alfred
 brew cask alfred link
