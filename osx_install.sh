@@ -43,7 +43,7 @@ brew cask install --appdir="/Applications" macvim
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" sourcetree
-brew cask install --appdir="/Applications" macaw
+brew cask install --appdir="/Applications" cakebrew
 brew cask install --appdir="/Applications" charles
 
 
@@ -54,6 +54,7 @@ brew cask install --appdir="/Applications" google-drive
 brew cask install --appdir="/Applications" google-music-manager
 brew cask install --appdir="/Applications" google-earth
 brew cask install --appdir="/Applications" google-hangouts
+brew cask install --appdir="/Applications" chromecast
 
 # Nice to have
 echo Install Some additional Apps
