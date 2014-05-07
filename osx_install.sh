@@ -68,7 +68,7 @@ brew cask install --appdir="/Applications" jdownloader
 brew cask install --appdir="/Applications" lastfm
 brew cask install --appdir="/Applications" all2mp3
 brew cask install --appdir="/Applications" spotify
-
+brew cask install --appdir="/Applications" spotify-notifications
 # Link Cask Apps to Alfred
 brew cask alfred link
 
