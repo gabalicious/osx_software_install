@@ -45,6 +45,7 @@ brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" sourcetree
 brew cask install --appdir="/Applications" cakebrew
 brew cask install --appdir="/Applications" charles
+brew cask install --appdir="/Applications" easyfind
 
 
 # Google Slavery
