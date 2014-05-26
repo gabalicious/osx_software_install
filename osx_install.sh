@@ -8,6 +8,8 @@ echo Install Homebrew, Postgres, wget and cask
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew install wget
 brew install postgresql
+brew install node
+npm install -g gitjk
 
 brew tap phinze/cask
 brew install brew-cask
@@ -33,7 +35,6 @@ brew cask install --appdir="~/Applications" java
 echo Install Dev Apps
 brew cask install --appdir="/Applications" github
 brew cask install --appdir="/Applications" heroku-toolbelt
-brew cask install --appdir="/Applications" node
 brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" webstorm
 brew cask install --appdir="/Applications" pycharm-pro
