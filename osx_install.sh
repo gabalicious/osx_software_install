@@ -47,6 +47,8 @@ brew cask install --appdir="/Applications" sourcetree
 brew cask install --appdir="/Applications" cakebrew
 brew cask install --appdir="/Applications" charles
 brew cask install --appdir="/Applications" easyfind
+brew cask install --appdir="/Applications" macvim
+brew cask install --appdir="/Applications" atom
 
 
 # Google Slavery
