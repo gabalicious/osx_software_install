@@ -4,6 +4,8 @@ echo Install all AppStore Apps at first!
 read -p "Press any key to continue... " -n1 -s
 echo  '\n'
 
+# install wallpaper cli
+sudo gem install desktop
 echo Install Homebrew, Postgres, wget and cask
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew install wget
