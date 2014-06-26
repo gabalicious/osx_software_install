@@ -12,6 +12,8 @@ brew install wget
 brew install postgresql
 brew install node
 npm install -g gitjk
+sudo npm install -g cordova
+npm install phonegap -g
 
 brew tap phinze/cask
 brew install brew-cask
@@ -38,15 +40,15 @@ echo Install Dev Apps
 brew cask install --appdir="/Applications" github
 brew cask install --appdir="/Applications" heroku-toolbelt
 brew cask install --appdir="/Applications" sublime-text
-brew cask install --appdir="/Applications" webstorm
-brew cask install --appdir="/Applications" pycharm-pro
+#brew cask install --appdir="/Applications" webstorm
+#brew cask install --appdir="/Applications" pycharm-pro
 brew cask install --appdir="/Applications" light-table
 brew cask install --appdir="/Applications" eclipse-ide
 brew cask install --appdir="/Applications" macvim
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" sourcetree
-brew cask install --appdir="/Applications" cakebrew
+#brew cask install --appdir="/Applications" cakebrew
 brew cask install --appdir="/Applications" charles
 brew cask install --appdir="/Applications" easyfind
 brew cask install --appdir="/Applications" macvim
