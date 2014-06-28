@@ -11,6 +11,7 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew install wget
 brew install postgresql
 brew install node
+brew install ant
 npm install -g gitjk
 sudo npm install -g cordova
 npm install phonegap -g
