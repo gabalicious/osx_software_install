@@ -8,10 +8,13 @@ echo  '\n'
 sudo gem install desktop
 echo Install Homebrew, Postgres, wget and cask
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+brew tap homebrew/science
 brew install wget
 brew install postgresql
 brew install node
 brew install ant
+brew install ngrok
+brew install opencv
 npm install -g gitjk
 sudo npm install -g cordova
 npm install phonegap -g
