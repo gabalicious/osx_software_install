@@ -13,6 +13,7 @@ brew install wget
 brew install postgresql
 brew install node
 brew install ant
+brew install ffmpeg
 brew install eigen
 brew install opencv
 npm install -g gitjk
