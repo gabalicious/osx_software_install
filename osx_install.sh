@@ -13,7 +13,7 @@ brew install wget
 brew install postgresql
 brew install node
 brew install ant
-brew install ngrok
+brew install eigen
 brew install opencv
 npm install -g gitjk
 sudo npm install -g cordova
