@@ -70,7 +70,6 @@ echo Install Some additional Apps
 brew cask install --appdir="/Applications" firefox
 
 brew cask install --appdir="/Applications" skype
-brew cask install --appdir="/Applications" tilemill
 brew cask install --appdir="/Applications" jdownloader
 brew cask install --appdir="/Applications" lastfm
 brew cask install --appdir="/Applications" all2mp3
@@ -82,3 +81,5 @@ brew cask alfred link
 # cleanup
 brew cleanup --force
 rm -f -r /Library/Caches/Homebrew/*
+
+echo "Security: https://objective-see.com/products.html"
